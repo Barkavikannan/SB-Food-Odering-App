@@ -1,13 +1,6 @@
 # MERN Stack Using Food Ordering App
 Demo - <a href="https://drive.google.com/file/d/1zMGpEcIQqs8Fqk4u66sy4NWtlhojOOs2/view?usp=drive_link">view video</a>
 
-# Submitted By
-1. Barkavi 411621104006
-2. Abinaya 411621104001
-3. Abraham 411621104002
-4. Aravind ragavendhar 411621104004
-5. Balaji 411621104005
-
 # Introduction:
 The Food Ordering App is an innovative solution designed to address a growing need in the fast-paced, convenience-driven world of today—access to food delivery at any time, especially during late hours. 
 
