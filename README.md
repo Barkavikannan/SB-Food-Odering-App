@@ -7,13 +7,6 @@ Demo - <a href="https://drive.google.com/file/d/1zMGpEcIQqs8Fqk4u66sy4NWtlhojOOs
 ## 🎯 Objective  
 To create a **comprehensive** food ordering system that simplifies the process for users while offering efficient **order and restaurant management** for admins.  
 
-## 👨‍💻 Team Members  
-- **Barkavi E**  
-- **Abinaya M**  
-- **Abraham P**  
-- **Aravind Raagavendhar S**  
-- **Balaji A**  
-
 ---
 
 ## 🚀 Features  
